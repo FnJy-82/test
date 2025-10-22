@@ -1,4 +1,4 @@
 package com.example.week07github
 
-class pepek {
+class hali {
 }
